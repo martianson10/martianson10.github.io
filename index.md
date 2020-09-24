@@ -3,11 +3,11 @@ ATOD is a major epidemic in todays society, today we will be showing you how to 
 # Why and How you should avoid drugs.
 ## Why?
 
-- Millions of deaths each year are caused by drug overdoses.
+- Millions of deaths each year are caused by drug overdoses, and drug induced health issues.
 - Tens of Millions of people are arrested each year for possession of and/or the selling of illegal drugs.
 - Drugs are known to cause many long-term health issues such as cancer and heart disease.
 
-## How?
+## How to prevent abuse from starting in the first place.
 ### Things to stay away from.
 
 - Avoid succumbing to peer pressure.
