@@ -1,22 +1,11 @@
-Welcome to GitHub Pages
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+ATOD is a major epidemic in todays society, today we will be showing you how to avoid it.
 
-Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
+# Why and How you should avoid drugs.
+## Why?
 
-Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Millions of deaths each year are caused by drug overdoses.
+- Tens of Millions of people are arrested each year for possession of and/or the selling of illegal drugs.
 
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
